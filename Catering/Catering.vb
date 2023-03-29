@@ -1,7 +1,7 @@
 ﻿'Program: Catering
 'Author: Katelyn Coper
 'Date: March 27, 2023
-'Purpose: This application 
+'Purpose: This application will calculate teh cost of an item while taking into account the payment option and discount of loyaly points.
 
 Option Strict On
 Option Explicit On
